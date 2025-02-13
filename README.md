@@ -18,4 +18,3 @@
 <a target="_blank" href="https://www.youtube.com/@hariharanvasu__2811" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hariharan2811&show_icons=true&locale=en" alt="Hariharan2811" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hariharan2811&show_icons=true&locale=en&layout=compact" alt="Hariharan2811" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hariharan2811" alt="Hariharan2811" /></a></p>
